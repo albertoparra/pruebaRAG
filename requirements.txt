@@ -1,0 +1,18 @@
+# 1. Crear requirements.txt con:
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf
+python-docx
+docx2txt
+unstructured
+python-pptx
+Office365-REST-Python-Client
+
+# 2. Instalar todo:
+pip install -r requirements.txt
+
+# 3. Ejecutar:
+streamlit run app.py
